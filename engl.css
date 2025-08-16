@@ -1,0 +1,278 @@
+body{
+    background-image: url(https://www.icolorpalette.com/download/solidcolorimage/ad5e99_solid_color_background_icolorpalette.png);
+    background-attachment: fixed;
+}
+.container1{
+    max-width: 800px;
+    height: 480px;
+    background-color: snow;
+    position: relative;
+    left: 5em;
+    top: 16em;
+    border-radius: 50px;
+}
+.image1{
+    position: relative;
+    left: 25em;
+    top: 3em;
+
+}
+.container2{
+    max-width: 800px;
+    height: 180px;
+    background-color: snow;
+    position: relative;
+    top: 140em;
+    left: 17em;
+    border-radius: 50px;
+}
+.icon1{
+    position: relative;
+    left: 10em;
+    top: 30px;
+}
+.p1{
+    position: relative;
+    left: 15em;
+    bottom: 10px;
+}
+.icon2{
+    position: relative;
+    left: 10.5em;
+    top: 2em;
+}
+.icon3{
+    position: relative;
+    left: 30em;
+    bottom: 6.5em;
+}
+.icon4{
+    position: relative;
+    left: 29.5em;
+    bottom: 6.4em;
+}
+.image2{
+    position: relative;
+    bottom: 240px;
+}
+.p2{
+    position: relative;
+    left: 15em;
+}
+.p3{
+    position: relative;
+    left: 34em;
+    bottom: 8.7em;
+}
+.container3{
+    position: relative;
+    max-width: 800px;
+    height: 850px;
+    background-color: snow;
+    top: 27em;
+    left: 25em;
+    border-radius: 50px;
+}
+.image3{
+    position: relative;
+    padding: 40px;
+    border-radius: 100px;
+}
+.p5{
+    position: relative;
+    padding: 50px;
+    font-size: 25px;
+}
+.p6{
+    position: relative;
+    padding: 50px;
+    font-size: 25px;
+}
+.p7{
+    position: relative;
+    padding: 80px;
+    font-size: 25px;
+    width: 400px;
+    left: 300px;
+    bottom: 14em;
+}
+.p8{
+    position: relative;
+    font-size: 25px;
+    padding: 50px;
+    bottom: 17em;
+}
+.container4{
+    position: relative;
+    max-width: 800px;
+    height: 500px;
+    background-color: snow;
+    top: 37em;
+    left: 5em;
+    border-radius: 50px;
+}
+.p9{
+    position: relative;
+    padding: 50px;
+    font-size: 25px;
+}
+.p10{
+    position: relative;
+    padding: 50px;
+    font-size: 25px;
+}
+.container5{
+    position: relative;
+    max-width: 800px;
+    height: 400px;
+    background-color: snow;
+    left: 25em;
+    top: 50em;
+    border-radius: 50px;
+}
+.p11{
+    position: relative;
+    padding: 50px;
+    font-size: 25px;
+}
+.p12{
+    position: relative;
+    padding: 50px;
+    font-size: 25px;
+    bottom: 2em;
+}
+.container6{
+    position: relative;
+    max-width: 800px;
+    height: 400px;
+    background-color: snow;
+    left: 17em;
+    top: 50em;
+    border-radius: 50px;
+}
+.image4{
+    position: relative;
+    bottom: 115em;
+    left: 57em;
+}
+.image5{
+    position: relative;
+    bottom: 70em;
+    left: 5em;
+}
+.image6{
+    position: relative;
+    left: 55em;
+    bottom: 43em;
+}
+.p13{
+    font-size: 25px;
+    position: relative;
+    bottom: 4em;
+    left: 2em;
+}
+.p14{
+    font-size: 25px;
+    position: relative;
+    bottom: 4em;
+    left: 2em;
+}
+.p15{
+    font-size: 25px;
+    position: relative;
+    bottom: 4em;
+    left: 2em;
+    width: 740px;
+}
+.container7{
+    position: relative;
+    max-width: 800px;
+    height: 460px;
+    background-color: snow;
+    bottom: 7em;
+    left: 5em;
+    border-radius: 50px;
+}
+.p16{
+    position: relative;
+    font-size: 25px;
+    padding: 50px;
+}
+.p17{
+    position: relative;
+    font-size: 25px;
+    left: 2em;
+}
+.p18{
+    position: relative;
+    font-size: 25px;
+    top: 1em;
+    left: 2em;
+}
+.p19{
+    position: relative;
+    font-size: 25px;
+    left: 1em;
+    top: 1.5em;
+    padding-left: 1em;
+}
+.p20{
+    position: relative;
+    font-size: 25px;
+    left: 2em;
+    top: 2em;
+}
+.image7{
+    position: relative;
+    bottom: 55em;
+    left: 5em;
+}
+.container8{
+    position: relative;
+    max-width: 800px;
+    height: 400px;
+    background-color: snow;
+    bottom: 15em;
+    left: 27em;
+    border-radius: 50px;
+}
+.p21{
+    font-size: 25px;
+    position: relative;
+    padding: 50px;
+}
+.p22{
+    position: relative;
+    font-size: 25px;
+    left: 2em;
+    top: 2em;
+}
+.p23{
+    position: relative;
+    font-size: 25px;
+    left: 2em;
+    top: 3em;
+}
+.image10{
+    position: relative;
+    bottom: 58em;
+    left: 55em;
+}
+.p24{
+    position: relative;
+    left: 52em;
+    bottom: 13em;
+}
+.p25{
+    position: relative;
+    font-size: 25px;
+    width: 750px;
+    left: 2em;
+    bottom: 1em;
+}
+.p26{
+    position: relative;
+    font-size: 25px;
+    width: 720px;
+    left: 2em;
+}
